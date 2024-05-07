@@ -3,8 +3,8 @@
 Sou desenvolvedor mobile, atuo em projetos Android e iOS usando React Native, Flutter, Android Nativo e iOS Nativo;
 
 Contato
-Email: asjesus1994@gmail.com
-Linkedin: in/adriano-jesus-26a60213b
+- Email: asjesus1994@gmail.com
+- Linkedin: in/adriano-jesus-26a60213b
 
 <!--
 **adrianojesux/adrianojesux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
